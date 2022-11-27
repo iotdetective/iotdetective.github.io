@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>IOTDetective</title>
+        <link>http://iotdetective.net/</link>
+        <description>A blog for investigators to learn about the internet of things.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster>
+            <atom:link href="http://iotdetective.net/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
