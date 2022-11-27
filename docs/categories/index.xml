@@ -4,5 +4,13 @@
         <link>http://iotdetective.net/categories/</link>
         <description>Categories - Category - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><atom:link href="http://iotdetective.net/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 01:20:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>OSINT</title>
+    <link>http://iotdetective.net/categories/osint/</link>
+    <pubDate>Sun, 27 Nov 2022 01:20:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/categories/osint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

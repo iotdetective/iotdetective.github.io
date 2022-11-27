@@ -1,23 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>IOTDetective</title>
-        <link>http://iotdetective.net/</link>
-        <description>A blog for investigators to learn about the internet of things.</description>
+        <title>OSINT - Tag - IOTDetective</title>
+        <link>http://iotdetective.net/tags/osint/</link>
+        <description>OSINT - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 01:20:00 -0500</lastBuildDate>
-            <atom:link href="http://iotdetective.net/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Simple Linux Commands</title>
-    <link>http://iotdetective.net/posts/linux_web_tools/</link>
-    <pubDate>Sun, 27 Nov 2022 01:20:00 -0500</pubDate>
-    <author>Rich</author>
-    <guid>http://iotdetective.net/posts/linux_web_tools/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/assets/linux.jpg" referrerpolicy="no-referrer">
-            </div>Linux Network Commands
-iftop mtr traceroute dig whois curl nmap Above is a quick list of network commands that I use to discover information about websites and IP addresses online during investigations.]]></description>
-</item>
-<item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 00:51:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/osint/" rel="self" type="application/rss+xml" /><item>
     <title>OSINT Start Point</title>
     <link>http://iotdetective.net/posts/osint_starting_point/</link>
     <pubDate>Sun, 27 Nov 2022 00:51:00 -0500</pubDate>

@@ -4,5 +4,21 @@
         <link>http://iotdetective.net/tags/</link>
         <description>Tags - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 01:20:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Linux</title>
+    <link>http://iotdetective.net/tags/linux/</link>
+    <pubDate>Sun, 27 Nov 2022 01:20:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>OSINT</title>
+    <link>http://iotdetective.net/tags/osint/</link>
+    <pubDate>Sun, 27 Nov 2022 00:51:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/osint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
