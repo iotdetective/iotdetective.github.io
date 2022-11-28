@@ -2,6 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://iotdetective.net/categories/</loc></url><url>
-            <loc>http://iotdetective.net/</loc></url><url>
-            <loc>http://iotdetective.net/tags/</loc></url></urlset>
+            <loc>http://iotdetective.net/categories/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/osint/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/training/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/training_notes_072822/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/linux/</loc><lastmod>2022-11-27T01:20:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/linux_web_tools/</loc><lastmod>2022-11-27T01:20:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/osint/</loc><lastmod>2022-11-27T00:51:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/osint_starting_point/</loc><lastmod>2022-11-27T00:51:00-05:00</lastmod></url></urlset>

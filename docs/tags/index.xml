@@ -4,7 +4,15 @@
         <link>http://iotdetective.net/tags/</link>
         <description>Tags - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 01:20:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 19:43:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Training</title>
+    <link>http://iotdetective.net/tags/training/</link>
+    <pubDate>Sun, 27 Nov 2022 19:43:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/training/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Linux</title>
     <link>http://iotdetective.net/tags/linux/</link>
     <pubDate>Sun, 27 Nov 2022 01:20:00 -0500</pubDate>

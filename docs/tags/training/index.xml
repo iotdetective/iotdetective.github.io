@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Training - Tag - IOTDetective</title>
+        <link>http://iotdetective.net/tags/training/</link>
+        <description>Training - Tag - IOTDetective</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 19:43:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/training/" rel="self" type="application/rss+xml" /><item>
+    <title>Training Notes</title>
+    <link>http://iotdetective.net/posts/training_notes_072822/</link>
+    <pubDate>Sun, 27 Nov 2022 19:43:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/training_notes_072822/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/assets/training.jpg" referrerpolicy="no-referrer">
+            </div>Taining Notes Originally Published on July 28, 2021
+Search operators and their functions: “site:” – Use this feature to search for something within a specific website, an example may be site:facebook.com Conway Police Department
+“filetype:” – This operator can be used to locate specific file types, like a work document or a PDF file.
+“intext:” – Use this operator to search for text within a word or PDF file, or within a blog article.]]></description>
+</item>
+</channel>
+</rss>
