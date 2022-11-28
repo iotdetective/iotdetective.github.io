@@ -4,7 +4,39 @@
         <link>http://iotdetective.net/tags/</link>
         <description>Tags - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 19:43:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 23:17:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Windows-Sandbox</title>
+    <link>http://iotdetective.net/tags/windows-sandbox/</link>
+    <pubDate>Sun, 27 Nov 2022 23:17:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/windows-sandbox/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Investigations</title>
+    <link>http://iotdetective.net/tags/investigations/</link>
+    <pubDate>Sun, 27 Nov 2022 23:06:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/investigations/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Precautions</title>
+    <link>http://iotdetective.net/tags/precautions/</link>
+    <pubDate>Sun, 27 Nov 2022 23:06:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/precautions/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Internet</title>
+    <link>http://iotdetective.net/tags/internet/</link>
+    <pubDate>Sun, 27 Nov 2022 22:55:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/internet/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Training</title>
     <link>http://iotdetective.net/tags/training/</link>
     <pubDate>Sun, 27 Nov 2022 19:43:00 -0500</pubDate>

@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Windows-Sandbox - Tag - IOTDetective</title>
+        <link>http://iotdetective.net/tags/windows-sandbox/</link>
+        <description>Windows-Sandbox - Tag - IOTDetective</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sun, 27 Nov 2022 23:17:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/windows-sandbox/" rel="self" type="application/rss+xml" /><item>
+    <title>Windows Sandbox for Investigators</title>
+    <link>http://iotdetective.net/posts/windows_sandbox/</link>
+    <pubDate>Sun, 27 Nov 2022 23:17:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/windows_sandbox/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1559667326-e5edc968aeac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhbmRib3h8ZW58MHx8fHwxNjU2MTMxMTYx&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=2000" referrerpolicy="no-referrer">
+            </div>The Sandbox I&rsquo;m going to continue on the path of sanitization when it comes to conducting online investigations. Every training I have even attended that deals with online open source investigations emphasizes the need to obfuscate your online identity. In plain language, we need to hide our tracks online because when we fail to do so, we may disclose to the subject of our investigations that they are the subject of an investigation.]]></description>
+</item>
+</channel>
+</rss>
