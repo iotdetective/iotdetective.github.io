@@ -2,11 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://iotdetective.net/categories/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
-            <loc>http://iotdetective.net/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/search_warrant_starter/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/search-warrants/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/warrants/</loc><lastmod>2022-11-30T21:24:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/categories/osint/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
-            <loc>http://iotdetective.net/posts/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
-            <loc>http://iotdetective.net/tags/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/windows_sandbox/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/windows-sandbox/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/investigations/</loc><lastmod>2022-11-27T23:06:00-05:00</lastmod></url><url>
