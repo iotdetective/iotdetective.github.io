@@ -1,0 +1,82 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - IOTDetective</title>
+        <link>http://iotdetective.net/posts/</link>
+        <description>All Posts | IOTDetective</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Wed, 30 Nov 2022 21:24:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Detailed and Concise, but How?</title>
+    <link>http://iotdetective.net/posts/search_warrant_starter/</link>
+    <pubDate>Wed, 30 Nov 2022 21:24:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/search_warrant_starter/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=872&amp;q=80" referrerpolicy="no-referrer">
+            </div>It starts with our investigations, but ends in a lot of paperwork… I am sure anyone who has worked any length of time within the law enforcement field understands how time-consuming, and tedious paperwork can be. In my nearly 14 years of experience in the field, I can say that it generally consumes most of the time during a scheduled shift. Not many of us get into law enforcement or career fields that involve investigations of a civil or criminal nature with the intent to focus mainly on our paperwork and reports.]]></description>
+</item>
+<item>
+    <title>Windows Sandbox for Investigators</title>
+    <link>http://iotdetective.net/posts/windows_sandbox/</link>
+    <pubDate>Sun, 27 Nov 2022 23:17:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/windows_sandbox/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1559667326-e5edc968aeac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhbmRib3h8ZW58MHx8fHwxNjU2MTMxMTYx&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=2000" referrerpolicy="no-referrer">
+            </div>The Sandbox I&rsquo;m going to continue on the path of sanitization when it comes to conducting online investigations. Every training I have even attended that deals with online open source investigations emphasizes the need to obfuscate your online identity. In plain language, we need to hide our tracks online because when we fail to do so, we may disclose to the subject of our investigations that they are the subject of an investigation.]]></description>
+</item>
+<item>
+    <title>Precautions for Investigations</title>
+    <link>http://iotdetective.net/posts/precautions/</link>
+    <pubDate>Sun, 27 Nov 2022 23:06:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/precautions/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1557075831-9227ec7d0097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxwcmVjYXV0aW9uc3xlbnwwfHx8fDE2NTYxMzEzNzU&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=2000" referrerpolicy="no-referrer">
+            </div>Digital Officer Safety We are all ingrained with a law enforcement concern, that above all else, officer safety is key. Investigators sometimes lose sight of what this means for them in their role. This is mainly due to the large scale differences between patrol and investigative work, but we shouldn&rsquo;t underestimate the need for officer safety in all that we do. After all, if you are hurt or injured as an investigator, you aren&rsquo;t there to be able to help your colleagues when they need you the most.]]></description>
+</item>
+<item>
+    <title>In the Beginning</title>
+    <link>http://iotdetective.net/posts/in_the_beginning/</link>
+    <pubDate>Sun, 27 Nov 2022 22:55:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/in_the_beginning/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1632594737623-bea601083890?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGJlZ2lubmluZ3xlbnwwfHx8fDE2NTYxMzExOTE&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=2000" referrerpolicy="no-referrer">
+            </div>An overview of what every investigator needs to know about the internet, from the beginning Again, I claim to be no expert in the area of technology, however, it interest me and several of my teachers throughout life have expressed that the best way to learn something is to teach it. I really would like to keep this blog as informational as possible, supported by verified sources. In this way, after you have read a post, you have places to go to validate the information given to you.]]></description>
+</item>
+<item>
+    <title>Training Notes</title>
+    <link>http://iotdetective.net/posts/training_notes_072822/</link>
+    <pubDate>Sun, 27 Nov 2022 19:43:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/training_notes_072822/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/assets/training.jpg" referrerpolicy="no-referrer">
+            </div>Taining Notes Originally Published on July 28, 2021
+Search operators and their functions: “site:” – Use this feature to search for something within a specific website, an example may be site:facebook.com Conway Police Department
+“filetype:” – This operator can be used to locate specific file types, like a work document or a PDF file.
+“intext:” – Use this operator to search for text within a word or PDF file, or within a blog article.]]></description>
+</item>
+<item>
+    <title>Simple Linux Commands</title>
+    <link>http://iotdetective.net/posts/linux_web_tools/</link>
+    <pubDate>Sun, 27 Nov 2022 01:20:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/linux_web_tools/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/assets/linux.jpg" referrerpolicy="no-referrer">
+            </div>Linux Network Commands
+iftop mtr traceroute dig whois curl nmap Above is a quick list of network commands that I use to discover information about websites and IP addresses online during investigations.]]></description>
+</item>
+<item>
+    <title>OSINT Start Point</title>
+    <link>http://iotdetective.net/posts/osint_starting_point/</link>
+    <pubDate>Sun, 27 Nov 2022 00:51:00 -0500</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/osint_starting_point/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/assets/banner.jpg" referrerpolicy="no-referrer">
+            </div>Intro Most people often wonder where to start in their open source intelligence investigations, and rightfully so. There are a host of options to choose from when trying to search the web for intelligence based information on suspects and witnesses. Yes, the starting point should be a simple Google search for name, telephone number, username, etc. However, there are outside options that should be attempted if you come up dry during your initial search engine based attempts at locating information.]]></description>
+</item>
+</channel>
+</rss>
