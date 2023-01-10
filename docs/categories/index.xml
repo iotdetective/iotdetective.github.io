@@ -4,7 +4,15 @@
         <link>http://iotdetective.net/categories/</link>
         <description>Categories - Category - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sat, 10 Dec 2022 22:00:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Tue, 10 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://iotdetective.net/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>SCAMS</title>
+    <link>http://iotdetective.net/categories/scams/</link>
+    <pubDate>Tue, 10 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/categories/scams/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>TOOLS</title>
     <link>http://iotdetective.net/categories/tools/</link>
     <pubDate>Sat, 10 Dec 2022 22:00:00 -0500</pubDate>
