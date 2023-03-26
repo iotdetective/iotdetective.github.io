@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>Account Takeovers - IOTDetective</title><meta name="Description" content="A blog for investigators to grow and learn, using the internet of things."><meta property="og:title" content="Account Takeovers" />
+<meta property="og:description" content="What is it? Since the beginning of 2023 I have seen several of these types of cases cross my desk, as well as the desks of some of my colleagues. An account takeover starts with a criminal actor getting possession of a victim&rsquo;s critical private information, such as the following:
+Full Legal Name Date of Birth Social Security Number License Number Full Legal Address Common PIN # or Passphrase Information about Family Relations This doesn&rsquo;t seem like a lot of information, and quite honestly not all of this information is needed in order to effectively take over a victims account." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://iotdetective.net/posts/account_takeover/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-03-25T00:00:00+00:00" /><meta property="og:site_name" content="IOTDetective" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Account Takeovers"/>
+<meta name="twitter:description" content="What is it? Since the beginning of 2023 I have seen several of these types of cases cross my desk, as well as the desks of some of my colleagues. An account takeover starts with a criminal actor getting possession of a victim&rsquo;s critical private information, such as the following:
+Full Legal Name Date of Birth Social Security Number License Number Full Legal Address Common PIN # or Passphrase Information about Family Relations This doesn&rsquo;t seem like a lot of information, and quite honestly not all of this information is needed in order to effectively take over a victims account."/>
+<meta name="application-name" content="IOTDetective">
+<meta name="apple-mobile-web-app-title" content="IOTDetective"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="icon" href="/assets/logo-1-small.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://iotdetective.net/posts/account_takeover/" /><link rel="prev" href="http://iotdetective.net/posts/social_engineering/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Account Takeovers",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/iotdetective.net\/posts\/account_takeover\/"
+        },"genre": "posts","keywords": "Training","wordcount":  895 ,
+        "url": "http:\/\/iotdetective.net\/posts\/account_takeover\/","datePublished": "2023-03-25T00:00:00+00:00","dateModified": "2023-03-25T00:00:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Rich"
+            },"description": ""
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="fixed"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('dark' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'dark' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="IOTDetective"><img
+        class="lazyload logo"
+        src="/svg/loading.min.svg"
+        data-src="/../assets/logo-1-small.png"
+        data-srcset="/../assets/logo-1-small.png, /../assets/logo-1-small.png 1.5x, /../assets/logo-1-small.png 2x"
+        data-sizes="auto"
+        alt="/../assets/logo-1-small.png"
+        title="/../assets/logo-1-small.png" width="200" height="218" /></a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/"> Blog </a><a class="menu-item" href="/key/"> PGP Key </a><a class="menu-item" href="/posts/"> Archive </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="IOTDetective"><img
+        class="lazyload logo"
+        src="/svg/loading.min.svg"
+        data-src="/../assets/logo-1-small.png"
+        data-srcset="/../assets/logo-1-small.png, /../assets/logo-1-small.png 1.5x, /../assets/logo-1-small.png 2x"
+        data-sizes="auto"
+        alt="/../assets/logo-1-small.png"
+        title="/../assets/logo-1-small.png" width="200" height="218" /></a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/" title="">Blog</a><a class="menu-item" href="/key/" title="">PGP Key</a><a class="menu-item" href="/posts/" title="">Archive</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Account Takeovers</h1><h2 class="single-subtitle">A Very real Concern for Victims</h2><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://iotdetective.net" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Rich</a></span>&nbsp;<span class="post-category">included in <a href="/categories/scams/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>SCAMS</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="03-25-2023">03-25-2023</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;895 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;5 minutes&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://images.unsplash.com/photo-1601597111158-2fceff292cdc"
+        data-srcset="https://images.unsplash.com/photo-1601597111158-2fceff292cdc, https://images.unsplash.com/photo-1601597111158-2fceff292cdc 1.5x, https://images.unsplash.com/photo-1601597111158-2fceff292cdc 2x"
+        data-sizes="auto"
+        alt="https://images.unsplash.com/photo-1601597111158-2fceff292cdc"
+        title="https://images.unsplash.com/photo-1601597111158-2fceff292cdc" /></div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-is-it">What is it?</a></li>
+    <li><a href="#the-repercussions">The repercussions:</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#how-easy-is-it-for-you-to-become-a-target">How easy is it for you to become a target?</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="what-is-it">What is it?</h2>
+<p>Since the beginning of 2023 I have seen several of these types of cases cross my desk, as well as the desks of some of my colleagues.  An account takeover starts with a criminal actor getting possession of a victim&rsquo;s critical private information, such as the following:</p>
+<ul>
+<li>Full Legal Name</li>
+<li>Date of Birth</li>
+<li>Social Security Number</li>
+<li>License Number</li>
+<li>Full Legal Address</li>
+<li>Common PIN # or Passphrase</li>
+<li>Information about Family Relations
+This doesn&rsquo;t seem like a lot of information, and quite honestly not all of this information is needed in order to effectively take over a victims account.  But what do we mean when we talk about &ldquo;account takeover&rdquo;?</li>
+</ul>
+<p>An account takeover is when a criminal actor uses your personal information in order to socially engineer a financial institution or other company into believing that they are in fact you.  If they succeed at their goal, they then can request new credit and debit cards be issued, or a new cell phone with your mobile number issued directly to them.  It could also be a criminal actor finding your leaked credentials online and using those credentials to log in and take over your online accounts.</p>
+<h2 id="the-repercussions">The repercussions:</h2>
+<p>They are huge, the criminal actor how has full access to your bank account to make purchases, withdraw funds, or close accounts and run with the money.  Additionally, in cases where a replacement cellular device is issued, the criminal actor has the ability to reset passwords to almost any online account where your mobile device number is associated as a method of two-factor authentication or 2FA.</p>
+<p>For example, if a criminal actor is able to successfully take over your Verizon account and issue themselves a replacement device with your number, they could go online to Facebook.com and request a password reset on your account based on your telephone number.  If the criminal actor is able to do this with your personal email address, they pretty much will have full reign over all of your accounts and effectively have stolen your real identity and your digital identity as well.  I have seen cases where criminal actors will utilize the account takeover to gain access to password vaults and then have full reign over any online account the victim has ever stored information about in their password manager.</p>
+<h1 id="how-can-i-avoid-this">How can I avoid this?</h1>
+<ol>
+<li>Use a password manager with enhanced features:
+There are many options for password managers out there, personally I like <a href="https://bitwarden.com/" target="_blank" rel="noopener noreffer ">Bitwarden</a>. Bitwarden offers a basic free plan, but their paid personal version is less than $20 a year and offers some additional features like storing all of your OTP (one-time passcodes) rather than using a mobile app like Google Authenticator. The benefit of Bitwarden as a password manager is it will automatically search for compromised passwords and will help generate new random passwords for every online service you use.</li>
+<li>Limit providing sensitive information:
+You inevitably will not be able to maintain control of your own information in the digital world we live in.  Those businesses, institutions, and agencies who have access to our personal data are responsible for helping ensure that your personal data is not leaked online.  However, there is always a possibility your online health portal information might be leaked, or information stored by your bank online might be leaked.  Limiting release of your private personal information to non-reputable sources will help, but alone may not prevent your personal information from being leaked on the internet.</li>
+<li>Utilize a hardware security key to access your online accounts:
+A security key is a piece of physical hardware that looks similar to a USB thumb drive, but holds a security key that helps validate that you are who you say you are.  If an attacker was able to discover your username and password for an online account and attempted to log in, they would physically need your security key to successfully login There is no amount of social engineering that can bypass a properly configured security key, that is of course unless you physically leave the key behind or don&rsquo;t take steps to keep it on you at all times.</li>
+<li>Education yourself on what phishing attacks are and how to avoid them:
+Phishing attacks are what often lead to leaked data and account takeovers, do not click suspicious links and always attempt to confirm email addresses and any attachments directly with the sender in person prior to trusting the validity of what is being sent via email or text message.</li>
+<li>Update and patch your devices often:
+Keeping your computer and phone up-to-date helps protect you from vulnerabilities in the software that allow for data to be leaked, always keep your devices up to date with the most recent patches and updates.</li>
+</ol>
+<h2 id="how-easy-is-it-for-you-to-become-a-target">How easy is it for you to become a target?</h2>
+<p>Very, if you don&rsquo;t know what to look for and steps to help protect yourself online.  Here is an example to show just how vulnerable you may be.</p>
+<pre tabindex="0"><code>[![IMAGE_ALT](https://img.youtube.com/vi/7-lDRgxbU1Y/0.jpg)](https://youtu.be/7-lDRgxbU1Y)
+</code></pre><p>There are a number of resources online to help you become more secure online, education is key!  However, don&rsquo;t feel bad if you fall victim to account takeover, with certain social engineering techniques your bank or cellular provider may actually believe that a criminal is you and issue cards or devices without your knowledge at all, especially if your security pin is leaked or easy to guess.</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 03-25-2023</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://iotdetective.net/posts/account_takeover/" data-title="Account Takeovers" data-via="iotdetective" data-hashtags="Training"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://iotdetective.net/posts/account_takeover/" data-hashtag="Training"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="http://iotdetective.net/posts/account_takeover/"><i class="fab fa-linkedin fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Tumblr" data-sharer="tumblr" data-url="http://iotdetective.net/posts/account_takeover/" data-title="Account Takeovers" data-tags="Training"><i class="fab fa-tumblr fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://iotdetective.net/posts/account_takeover/" data-title="Account Takeovers"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Reddit" data-sharer="reddit" data-url="http://iotdetective.net/posts/account_takeover/"><i class="fab fa-reddit fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/training/">Training</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/social_engineering/" class="prev" rel="prev" title="Social Engineering - A Tool for Today&#39;s Criminal Actors"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Social Engineering - A Tool for Today's Criminal Actors</a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://iotdetective.net" target="_blank">Richard Theberge</a></span>&nbsp;|&nbsp;<span class="license"><a href=https://creativecommons.org/licenses/by/4.0/>CC BY 4.0</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"Hi! I wanted to let you know that this blog is hosted on GitHub Pages, and does use cookies for functionality."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

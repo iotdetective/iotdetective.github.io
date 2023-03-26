@@ -2,14 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://iotdetective.net/categories/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/posts/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/categories/scams/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/account_takeover/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/scams/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/training/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/social-engineering/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/social_engineering/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/tags/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/tags/training/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/internet/</loc><lastmod>2022-12-10T22:00:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/start_me/</loc><lastmod>2022-12-10T22:00:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/categories/tools/</loc><lastmod>2022-12-10T22:00:00-05:00</lastmod></url><url>
