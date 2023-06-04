@@ -4,14 +4,35 @@
         <link>http://iotdetective.net/tags/training/</link>
         <description>Training - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Tue, 10 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://iotdetective.net/tags/training/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sat, 03 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://iotdetective.net/tags/training/" rel="self" type="application/rss+xml" /><item>
+    <title>Check Fraud Investigations</title>
+    <link>http://iotdetective.net/posts/check_fraud/</link>
+    <pubDate>Sat, 03 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/check_fraud/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1676151863834-b9b162faa8ab" referrerpolicy="no-referrer">
+            </div>Check Fraud Scams are Prevalent As law enforcement officers in modern times, we should be familiar with check fraud scams and understand that they occur in all areas of the country and that they can deeply affect victims. I have worked with several victims who have, unfortunately, lost significant portions of their life savings falling victim to these check fraud con artists. There are many different avenues that fraudsters take to facilitate their crimes, but in almost every case I have worked, the suspect will take measures to ensure that they are not the ones cashing these fraudulent checks and will use seemingly innocent victims to help perpetrate the crime.]]></description>
+</item>
+<item>
+    <title>Account Takeovers</title>
+    <link>http://iotdetective.net/posts/account_takeover/</link>
+    <pubDate>Sat, 25 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Rich</author>
+    <guid>http://iotdetective.net/posts/account_takeover/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://images.unsplash.com/photo-1601597111158-2fceff292cdc" referrerpolicy="no-referrer">
+            </div>What is it? Since the beginning of 2023 I have seen several of these types of cases cross my desk, as well as the desks of some of my colleagues. An account takeover starts with a criminal actor getting possession of a victim&rsquo;s critical private information, such as the following:
+Full Legal Name Date of Birth Social Security Number License Number Full Legal Address Common PIN # or Passphrase Information about Family Relations This doesn&rsquo;t seem like a lot of information, and quite honestly not all of this information is needed in order to effectively take over a victims account.]]></description>
+</item>
+<item>
     <title>Social Engineering - A Tool for Today&#39;s Criminal Actors</title>
     <link>http://iotdetective.net/posts/social_engineering/</link>
     <pubDate>Tue, 10 Jan 2023 00:00:00 &#43;0000</pubDate>
     <author>Rich</author>
     <guid>http://iotdetective.net/posts/social_engineering/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://media.licdn.com/dms/image/D5612AQFFNk6ZzS58JQ/article-cover_image-shrink_600_2000/0/1671418886439?e=1678924800&amp;v=beta&amp;t=kvVSSATPZKMzUFHHTafLZ9I_YHBx7mzZ2PGcSV3pm4Q" referrerpolicy="no-referrer">
+                <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3" referrerpolicy="no-referrer">
             </div>Criminal activity, as with anything in life, evolves with the passage of time. My career in law enforcement began in 2009, which doesn&rsquo;t seem that long ago for some. However, the method of criminal activity and the methods of investigating the same have changed. Many of the more common facets of crime still exist and occur commonly today, to include:
 Thefts, Robberies and Burglaries DUI and other Driving Offense Domestic Violence Offenses Sexual Assaults Child Abuse &amp; Neglect Scams and Financial Exploitation So what is different today?]]></description>
 </item>
