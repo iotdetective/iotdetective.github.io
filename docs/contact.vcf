@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Theberge;Richard;;Sgt.;
+FN:Richard Theberge
+ORG:Conway Police Department
+TITLE:Detective Sergeant
+TEL;TYPE=WORK,VOICE:(603) 960-2470
+ADR;TYPE=WORK:;;35 East Conway Rd.;Center Conway;NH;03813;USA
+EMAIL:rtheberge@conwaypdnh.gov
+END:VCARD
