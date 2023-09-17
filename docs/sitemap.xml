@@ -2,12 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://iotdetective.net/categories/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/investigations/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/categories/learning/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/tags/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
+            <loc>http://iotdetective.net/posts/attitude_is_everything/</loc><lastmod>2023-09-16T21:00:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/check_fraud/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/posts/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/categories/scams/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://iotdetective.net/tags/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/training/</loc><lastmod>2023-06-03T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/account_takeover/</loc><lastmod>2023-03-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/social-engineering/</loc><lastmod>2023-01-10T00:00:00&#43;00:00</lastmod></url><url>
@@ -21,11 +24,9 @@
             <loc>http://iotdetective.net/categories/osint/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/windows_sandbox/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/windows-sandbox/</loc><lastmod>2022-11-27T23:17:00-05:00</lastmod></url><url>
-            <loc>http://iotdetective.net/tags/investigations/</loc><lastmod>2022-11-27T23:06:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/precautions/</loc><lastmod>2022-11-27T23:06:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/precautions/</loc><lastmod>2022-11-27T23:06:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/in_the_beginning/</loc><lastmod>2022-11-27T22:55:00-05:00</lastmod></url><url>
-            <loc>http://iotdetective.net/categories/learning/</loc><lastmod>2022-11-27T22:55:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/training_notes_072822/</loc><lastmod>2022-11-27T19:43:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/tags/linux/</loc><lastmod>2022-11-27T01:20:00-05:00</lastmod></url><url>
             <loc>http://iotdetective.net/posts/linux_web_tools/</loc><lastmod>2022-11-27T01:20:00-05:00</lastmod></url><url>

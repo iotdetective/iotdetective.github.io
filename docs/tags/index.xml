@@ -4,7 +4,15 @@
         <link>http://iotdetective.net/tags/</link>
         <description>Tags - Tag - IOTDetective</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rich@iotdetective.net (Richard Theberge)</managingEditor>
-            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sat, 03 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>rich@iotdetective.net (Richard Theberge)</webMaster><lastBuildDate>Sat, 16 Sep 2023 21:00:00 -0500</lastBuildDate><atom:link href="http://iotdetective.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Investigations</title>
+    <link>http://iotdetective.net/tags/investigations/</link>
+    <pubDate>Sat, 16 Sep 2023 21:00:00 -0500</pubDate>
+    <author>Richard Theberge</author>
+    <guid>http://iotdetective.net/tags/investigations/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Training</title>
     <link>http://iotdetective.net/tags/training/</link>
     <pubDate>Sat, 03 Jun 2023 00:00:00 &#43;0000</pubDate>
@@ -42,14 +50,6 @@
     <pubDate>Sun, 27 Nov 2022 23:17:00 -0500</pubDate>
     <author>Richard Theberge</author>
     <guid>http://iotdetective.net/tags/windows-sandbox/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Investigations</title>
-    <link>http://iotdetective.net/tags/investigations/</link>
-    <pubDate>Sun, 27 Nov 2022 23:06:00 -0500</pubDate>
-    <author>Richard Theberge</author>
-    <guid>http://iotdetective.net/tags/investigations/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
