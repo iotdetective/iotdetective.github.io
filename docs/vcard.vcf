@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+Content-Type: attachment
+</head>
+
 BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Richard Theberge
@@ -14,3 +20,5 @@ ORG;CHARSET=UTF-8:Conway Police Department
 URL;type=WORK;CHARSET=UTF-8:https://conwaypdnh.gov
 REV:2023-06-13T01:47:43.740Z
 END:VCARD
+
+</html>
