@@ -1,0 +1,495 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.62.0"
+
+[params]
+  defaultTheme = "dark"
+  gitRepo = "https://github.com/iotdetective"
+  # which hash function used for SRI, when empty, no SRI is used
+  # ["sha256", "sha384", "sha512", "md5"]
+  fingerprint = ""
+  # date format
+  dateFormat = "01-02-2006"
+  # website title for Open Graph and Twitter Cards
+  title = "IOTDetective"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "A blog for investigators to grow and learn, using the internet of things."
+  # website images for Open Graph and Twitter Cards
+  images = []
+
+  # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "fixed"
+    # Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "../assets/logo-1-small.png"
+      # title name
+      name = ""
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
+
+  # Footer config
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ""
+    # whether to show Hugo and theme info
+    hugo = false
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+    # site creation time
+    since = 2022
+    # license info (HTML format is supported)
+    license= "<a href=https://creativecommons.org/licenses/by/4.0/>CC BY 4.0</a>"
+
+  # Section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "01-02"
+    # amount of RSS pages
+    rss = 10
+
+  # List (category or tag) page config
+  [params.list]
+    # special amount of posts in each list page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "01-02"
+    # amount of RSS pages
+    rss = 10
+
+  # App icon config
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "IOTDetective"
+    # whether to omit favicon resource links
+    noFavicon = false
+    # modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = "/assets/logo-1-small.png"
+    # Android browser theme color
+    themeColor = "#ffffff"
+    # Safari mask icon color
+    iconColor = "#5bbad5"
+    # Windows v8-11 tile color
+    tileColor = "#da532c"
+
+  # Search config
+  [params.search]
+    enable = false
+    # type of search engine ["lunr", "algolia"]
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = "What can I help you find?"
+    # max number of results length
+    maxResultLength = 10
+    # snippet length of the result
+    snippetLength = 30
+    # HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # URL of avatar shown in home page
+      avatarURL = "../assets/rich.jpg"
+      # title shown in home page (HTML format is supported)
+      title = "IOTDetective"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "A blog for investigators to grow and learn, using the internet of things."
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = "This web blog was born from my interests in technology, combined with my love for investigations. I am a small-town Detective in New Hampshire and have been in law enforcement for well over a decade. This blog is a method to share my continued experience and education on a number of topics involving investigations in general."
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+  # Social config in home page
+  [params.social]
+    GitHub = "iotdetective"
+    Linkedin = "richard-theberge"
+    Twitter = "iotdetective"
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
+    Medium = ""
+    Gitlab = ""
+    Youtubelegacy = ""
+    Youtubecustom = ""
+    Youtubechannel = "@iotdetective"
+    Tumblr = ""
+    Quora = ""
+    Keybase = "richiotdetective"
+    Pinterest = ""
+    Reddit = ""
+    Codepen = ""
+    FreeCodeCamp = ""
+    Bitbucket = ""
+    Stackoverflow = ""
+    Weibo = ""
+    Odnoklassniki = ""
+    VK = ""
+    Flickr = ""
+    Xing = ""
+    Snapchat = ""
+    Soundcloud = ""
+    Spotify = ""
+    Bandcamp = ""
+    Paypal = ""
+    Fivehundredpx = ""
+    Mix = ""
+    Goodreads = ""
+    Lastfm = ""
+    Foursquare = ""
+    Hackernews = ""
+    Kickstarter = ""
+    Patreon = ""
+    Steam = ""
+    Twitch = ""
+    Strava = ""
+    Skype = ""
+    Whatsapp = ""
+    Zhihu = ""
+    Douban = ""
+    Angellist = ""
+    Slidershare = ""
+    Jsfiddle = ""
+    Deviantart = ""
+    Behance = ""
+    Dribbble = ""
+    Wordpress = ""
+    Vine = ""
+    Googlescholar = ""
+    Researchgate = ""
+    Mastodon = ""
+    Thingiverse = ""
+    Devto = ""
+    Gitea = ""
+    XMPP = ""
+    Matrix = ""
+    Bilibili = ""
+    Discord = ""
+    DiscordInvite = ""
+    Lichess = ""
+    ORCID = ""
+    Pleroma = ""
+    Kaggle = ""
+    MediaWiki= ""
+    Plume = ""
+    HackTheBox = ""
+    RootMe= ""
+    Email = "rich@iotdetective.net"
+    Phone = ""
+    RSS = ""
+
+  # Page global config
+  [params.page]
+    # whether to hide a page from home page
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    lightgallery = false
+    # whether to enable the ruby extended syntax
+    ruby = true
+    # whether to enable the fraction extended syntax
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = false
+    # whether to show the full text content in RSS
+    rssFullText = false
+    # Table of the contents config
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+    # Code config
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 50
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = false
+      # default inline delimiter is $ ... $ and \( ... \)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # default block delimiter is $$ ... $$, \[ ... \], \begin{equation} ... \end{equation} and some other functions
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+    # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = ""
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+      # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      # 是否添加 NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      navigation = true
+      # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      # 是否添加 GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      geolocate = true
+      # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      # 是否添加 ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      scale = true
+      # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      # 是否添加 FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      fullscreen = true
+    # Social share links in post page
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = true
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = true
+      HackerNews = true
+      Reddit = true
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Flipboard = false
+      Weibo = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+    # Comment config
+    [params.page.comment]
+      enable = false
+      # Disqus comment config (https://disqus.com/)
+      [params.page.comment.disqus]
+        enable = false
+        # Disqus shortname to use Disqus in posts
+        shortname = ""
+      # Gitalk comment config (https://github.com/gitalk/gitalk)
+      [params.page.comment.gitalk]
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      # Valine comment config (https://github.com/xCss/Valine)
+      [params.page.comment.valine]
+        enable = false
+        appId = ""
+        appKey = ""
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        # automatically adapt the current theme i18n configuration when empty
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = ""
+        # emoji data file name, default is "google.yml"
+        # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
+        # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/lib/valine/emoji/"
+        # emoji 数据文件名称, 默认是 "google.yml"
+        # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
+        # 位于 "themes/LoveIt/assets/lib/valine/emoji/" 目录
+        # 可以在你的项目下相同路径存放你自己的数据文件:
+        # "assets/lib/valine/emoji/"
+        emoji = ""
+      # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
+      # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
+      [params.page.comment.facebook]
+        enable = false
+        width = "100%"
+        numPosts = 10
+        appId = ""
+        # automatically adapt the current theme i18n configuration when empty
+        # 为空时自动适配当前主题 i18n 配置
+        languageCode = ""
+      # Telegram comments config (https://comments.app/)
+      # Telegram comments 评论系统设置 (https://comments.app/)
+      [params.page.comment.telegram]
+        enable = false
+        siteID = ""
+        limit = 5
+        height = ""
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+      # Commento comment config (https://commento.io/)
+      # Commento comment 评论系统设置 (https://commento.io/)
+      [params.page.comment.commento]
+        enable = false
+      # utterances comment config (https://utteranc.es/)
+      # utterances comment 评论系统设置 (https://utteranc.es/)
+      [params.page.comment.utterances]
+        enable = false
+        # owner/repo
+        repo = ""
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+      # giscus comment config (https://giscus.app/)
+      # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
+      [params.page.comment.giscus]
+        # You can refer to the official documentation of giscus to use the following configuration.
+        # 你可以参考官方文档来使用下列配置
+        enable = false
+        repo = ""
+        repoId = ""
+        category = "Announcements"
+        categoryId = ""
+        # automatically adapt the current theme i18n configuration when empty
+        # 为空时自动适配当前主题 i18n 配置
+        lang = ""
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom"
+        lazyLoading = false
+        lightTheme = "light"
+        darkTheme = "dark"
+    # Third-party library config
+    # 第三方库配置
+    [params.page.library]
+      [params.page.library.css]
+        # someCSS = "some.css"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someCSS = "https://cdn.example.com/some.css"
+      [params.page.library.js]
+        # someJavascript = "some.js"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someJavascript = "https://cdn.example.com/some.js"
+    # Page SEO config
+    # 页面 SEO 配置
+    [params.page.seo]
+      # image URL
+      # 图片 URL
+      images = []
+      # Publisher info
+      # 出版者信息
+      [params.page.seo.publisher]
+        name = ""
+        logoUrl = ""
+
+  # TypeIt config
+  # TypeIt 配置
+  [params.typeit]
+    # typing speed between each step (measured in milliseconds)
+    # 每一步的打字速度 (单位是毫秒)
+    speed = 100
+    # blinking speed of the cursor (measured in milliseconds)
+    # 光标的闪烁速度 (单位是毫秒)
+    cursorSpeed = 1000
+    # character used for the cursor (HTML format is supported)
+    # 光标的字符 (支持 HTML 格式)
+    cursorChar = "|"
+    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+    # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
+    duration = -1
+
+  # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
+  # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+
+  # Site SEO config
+  # 网站 SEO 配置
+  [params.seo]
+    # image URL
+    # 图片 URL
+    image = ""
+    # thumbnail URL
+    # 缩略图 URL
+    thumbnailUrl = ""
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = true
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = "Hi! I wanted to let you know that this blog is hosted on GitHub Pages, and does use cookies for functionality."
+      dismiss = ""
+      link = ""
+
+  # CDN config for third-party library files
+  # 第三方库文件的 CDN 设置
+  [params.cdn]
+    # CDN data file name, disabled by default
+    # ["jsdelivr.yml"]
+    # located in "themes/LoveIt/assets/data/cdn/" directory
+    # you can store your own data files in the same path under your project:
+    # "assets/data/cdn/"
+    # CDN 数据文件名称, 默认不启用
+    # ["jsdelivr.yml"]
+    # 位于 "themes/LoveIt/assets/data/cdn/" 目录
+    # 可以在你的项目下相同路径存放你自己的数据文件:
+    # "assets/data/cdn/"
+    data = "jsdelivr.yml"
+
+  # Compatibility config
+  # 兼容性设置
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    # 是否使用 Polyfill.io 来兼容旧式浏览器
+    polyfill = false
+    # whether to use object-fit-images to be compatible with older browsers
+    # 是否使用 object-fit-images 来兼容旧式浏览器
+    objectFit = false
