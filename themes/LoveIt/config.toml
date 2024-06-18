@@ -5,7 +5,7 @@
 
 [params]
   defaultTheme = "dark"
-  gitRepo = "https://github.com/iotdetective"
+  gitRepo = "https://github.com/iotdetective/iotdetective.github.io"
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
