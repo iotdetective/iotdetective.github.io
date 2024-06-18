@@ -82,7 +82,7 @@ My suggestion is always to request that the medical examiner perform an autopsy,
 
 As always, consult with your administrators and prosecutors on how to proceed in any death resulting investigation to help identify any potential legal challenges that may arise.
 
-[![State V. Collins](https://livestream.com/accounts/27391460/events/10715419/videos/238520195/player?width=640&height=360&autoPlay=true&mute=false)](https://livestream.com/accounts/27391460/events/10715419/videos/238520195/player?width=640&height=360&autoPlay=true&mute=false)
+[![State V. Collins](https://livestream.com/accounts/27391460/events/10715419/videos/238520195)](https://livestream.com/accounts/27391460/events/10715419/videos/238520195)
 
 
 [1] Meier, A., Moore, S. K., Saunders, E. C., McLeman, B., Metcalf, S. A., Auty, S., Walsh, O., & Marsch, L. A. (2020). Understanding the increase in opioid overdoses in New Hampshire: A rapid epidemiologic assessment. Drug and alcohol dependence, 209, 107893. https://doi.org/10.1016/j.drugalcdep.2020.107893
