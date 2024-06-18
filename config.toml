@@ -36,7 +36,7 @@ languageName = "English"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
+    post = "<i class="fa-solid fa-book"></i>"
     name = "Archive"
     url = "/posts/"
     # title will be shown when you hover on this menu link
@@ -56,6 +56,14 @@ languageName = "English"
     post = ""
     name = "Categories"
     url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 6
+    identifier = "resources"
+    pre = ""
+    post = ""
+    name = "Resources"
+    url = "https://resources.iotdetective.net"
     title = ""
 
 # Markup related configuration in Hugo
