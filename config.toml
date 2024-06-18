@@ -65,4 +65,6 @@ languageName = "English"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
-[module] [module.hugoVersion] extended = true min = '0.111.0' 
+[module] 
+[module.hugoVersion]
+extended = true min = '0.111.0' 
