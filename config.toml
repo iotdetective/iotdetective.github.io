@@ -43,14 +43,6 @@ languageName = "English"
     title = ""
   [[menu.main]]
     weight = 4
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
-    weight = 5
     identifier = "categories"
     pre = ""
     post = ""
@@ -58,7 +50,7 @@ languageName = "English"
     url = "/categories/"
     title = ""
   [[menu.main]]
-    weight = 6
+    weight = 5
     identifier = "resources"
     pre = ""
     post = ""
